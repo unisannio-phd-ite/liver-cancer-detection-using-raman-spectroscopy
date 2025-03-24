@@ -3,7 +3,7 @@
 
 In this repository you can find the source code written in Python implementing the approach presented in the article.
 
-Under review @ ["Cells" MDPI journal](https://www.mdpi.com/journal/cells).
+["Cells" MDPI journal](https://www.mdpi.com/journal/cells).
 
 -- 
 License
